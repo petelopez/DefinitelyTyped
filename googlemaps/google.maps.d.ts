@@ -23,6 +23,7 @@ THE SOFTWARE.
 */
 
 declare module google.maps {
+    var visualRefresh: bool;
 
     /***** MVC *****/
     export class MVCObject {
